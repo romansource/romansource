@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
 
-<img src="icons.gif">
+<img src="rotating-icons.gif">
 
 #
 - 🔭 I’m currently working on a pet project and tinkering with an ECS framework
