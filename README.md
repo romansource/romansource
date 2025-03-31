@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
 
+<img src="icons.gif">
+
+#
+- 🔭 I’m currently working on a pet project and tinkering with an ECS framework
+- 📫 How to reach me: romansourcemail@gmail.com
 <!--
 **romansource/romansource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
