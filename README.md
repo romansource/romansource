@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 <img src="rotating-icons.gif">
 
 #
-- 🔭 I’m currently working on a pet project and tinkering with an [ECS framework](https://github.com/romansource/ForgeECS)
+- 🔭 I’m currently working on a pet project and tinkering with  open source
 - 📫 How to reach me: romansourcemail@gmail.com
 <!--
 **romansource/romansource** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
