@@ -5,7 +5,9 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 
 #
 
-![Top Languages](https://raw.githubusercontent.com/romansource/romansource/badges/top-languages.svg) &ensp; ![Legend](https://raw.githubusercontent.com/romansource/romansource/badges/languages-legend.svg)
+### My live stats
+![Languages](https://raw.githubusercontent.com/romansource/romansource/badges/languages-combined.svg)
+
 
 
 - 🔭 I’m currently working on a pet project and tinkering with  open source
