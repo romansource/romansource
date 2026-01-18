@@ -5,6 +5,10 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 
 #
 
+![Top Languages](https://raw.githubusercontent.com/romansource/romansource/badges/top-languages.svg)
+![Legend](https://raw.githubusercontent.com/romansource/romansource/badges/languages-legend.svg)
+
+
 - 🔭 I’m currently working on a pet project and tinkering with  open source
 - 📫 How to reach me: romansourcemail@gmail.com
 <!--
