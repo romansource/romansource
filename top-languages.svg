@@ -1,9 +1,16 @@
 <svg width="200" height="200" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
-<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#eee" stroke-width="6"/>
-<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#178600" stroke-width="6" stroke-dasharray="94.1 5.900000000000006" stroke-dashoffset="25"/>
-<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#222222" stroke-width="6" stroke-dasharray="4.5 95.5" stroke-dashoffset="-69.1"/>
-<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#888" stroke-width="6" stroke-dasharray="0.9 99.1" stroke-dashoffset="-73.6"/>
-<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#f1e05a" stroke-width="6" stroke-dasharray="0.5 99.5" stroke-dashoffset="-74.5"/>
-<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#888" stroke-width="6" stroke-dasharray="0.0 100.0" stroke-dashoffset="-75.0"/>
-<text x="21" y="21" text-anchor="middle" font-size="3" dy="0.35em">Top Languages</text>
+
+<defs>
+  <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+    <feDropShadow dx="0" dy="0" stdDeviation="0.5" flood-color="#000" flood-opacity="0.2"/>
+  </filter>
+</defs>
+<circle cx="21" cy="21" r="15.9" fill="#eee"/>
+<path d="M 21,21 L 21.0,5.1 A 15.9,15.9 0 1 1 13.898012735097097,6.774256543534992 Z" fill="#178600" filter="url(#shadow)"/>
+<path d="M 21,21 L 13.898012735097097,6.774256543534992 A 15.9,15.9 0 0 1 18.065612775284897,5.373120221380443 Z" fill="#222222" filter="url(#shadow)"/>
+<path d="M 21,21 L 18.065612775284897,5.373120221380443 A 15.9,15.9 0 0 1 19.037480728943144,5.221580620647375 Z" fill="#888" filter="url(#shadow)"/>
+<path d="M 21,21 L 19.037480728943144,5.221580620647375 A 15.9,15.9 0 0 1 20.01685914836854,5.1304242632056045 Z" fill="#f1e05a" filter="url(#shadow)"/>
+<path d="M 21,21 L 20.01685914836854,5.1304242632056045 A 15.9,15.9 0 0 1 20.999999999999982,5.1 Z" fill="#888" filter="url(#shadow)"/>
+<circle cx="21" cy="21" r="10" fill="white"/>
+<text x="21" y="21" text-anchor="middle" font-size="3.5" font-weight="bold" fill="#222" dy="0.35em">Top Languages</text>
 </svg>
