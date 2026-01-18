@@ -5,6 +5,23 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 
 #
 
+| Language   | Usage  |
+|------------|--------|
+| C#         | 40%    |
+| Unity      | 30%    |
+| .NET       | 15%    |
+| JavaScript | 7%     |
+| Rust       | 5%     |
+| C++        | 3%     |
+
+
+
+![Top Languages](https://raw.githubusercontent.com/romansource/romansource/badges/top-languages.svg)
+[View table](https://github.com/romansource/romansource/blob/badges/languages.md)
+[View emoji legend](https://github.com/romansource/romansource/blob/badges/languages.txt)
+
+
+
 - 🔭 I’m currently working on a pet project and tinkering with  open source
 - 📫 How to reach me: romansourcemail@gmail.com
 <!--
