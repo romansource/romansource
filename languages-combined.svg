@@ -1,4 +1,5 @@
 <svg width="320" height="220" viewBox="0 0 320 220" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="320" height="220" rx="10" ry="10" fill="#f8f8f8"/>
 
 <defs>
   <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
@@ -39,21 +40,20 @@
     <stop offset="0%" stop-color="#512BD4" stop-opacity="0.8"/>
     <stop offset="100%" stop-color="#512BD4" stop-opacity="1"/>
   </radialGradient>
+
+  <radialGradient id="grad-Other" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#aaaaaa" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#aaaaaa" stop-opacity="1"/>
+  </radialGradient>
 </defs>
 <path d="M 110.0,110.0 L 110.82902087234552,15.003617308903728 A 95.0,95.0 0 1 1 66.82663280917919,25.37695133471877 Z" fill="url(#grad-C#)" filter="url(#shadow)"/>
 <path d="M 110.0,110.0 L 68.31008416138573,24.63636068343115 A 95.0,95.0 0 0 1 91.65338482584842,16.788403555933073 Z" fill="url(#grad-ShaderLab)" filter="url(#shadow)"/>
-<path d="M 110.0,110.0 L 93.28294577001324,16.482407548784266 A 95.0,95.0 0 0 1 97.45202071005836,15.832339862672626 Z" fill="url(#grad-HLSL)" filter="url(#shadow)"/>
-<path d="M 110.0,110.0 L 99.09738410604632,15.62768961888817 A 95.0,95.0 0 0 1 103.2986771005092,15.236651223182491 Z" fill="url(#grad-JavaScript)" filter="url(#shadow)"/>
-<path d="M 110.0,110.0 L 104.95354622265643,15.134129929288406 A 95.0,95.0 0 0 1 109.17097912765435,15.003617308903728 Z" fill="url(#grad-CSS)" filter="url(#shadow)"/>
-<rect x="215" y="42.5" width="100" height="135" rx="8" ry="8" fill="rgba(255,255,255,0.9)" filter="url(#shadow)"/>
-<rect x="220" y="32.5" width="15" height="15" fill="#178600"/>
-<text x="240" y="47.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">C# 93%</text>
-<rect x="220" y="57.5" width="15" height="15" fill="#222222"/>
-<text x="240" y="72.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">ShaderLab 4%</text>
-<rect x="220" y="82.5" width="15" height="15" fill="#888"/>
-<text x="240" y="97.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">HLSL 1%</text>
-<rect x="220" y="107.5" width="15" height="15" fill="#f1e05a"/>
-<text x="240" y="122.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">JavaScript 1%</text>
-<rect x="220" y="132.5" width="15" height="15" fill="#888"/>
-<text x="240" y="147.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">CSS 1%</text>
+<path d="M 110.0,110.0 L 93.28294577001324,16.482407548784266 A 95.0,95.0 0 0 1 109.1709791276545,15.003617308903728 Z" fill="url(#grad-Other)" filter="url(#shadow)"/>
+<rect x="215" y="67.5" width="100" height="85" rx="8" ry="8" fill="rgba(255,255,255,0.9)" filter="url(#shadow)"/>
+<rect x="220" y="57.5" width="15" height="15" fill="#178600"/>
+<text x="240" y="72.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">C# 93%</text>
+<rect x="220" y="82.5" width="15" height="15" fill="#222222"/>
+<text x="240" y="97.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">ShaderLab 4%</text>
+<rect x="220" y="107.5" width="15" height="15" fill="#aaaaaa"/>
+<text x="240" y="122.5" font-size="12" font-family="Verdana,sans-serif" font-weight="bold">Other 3%</text>
 </svg>
