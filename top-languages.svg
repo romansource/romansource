@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
+<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#eee" stroke-width="6"/>
+<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#178600" stroke-width="6" stroke-dasharray="94.1 5.900000000000006" stroke-dashoffset="25"/>
+<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#222222" stroke-width="6" stroke-dasharray="4.5 95.5" stroke-dashoffset="-69.1"/>
+<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#888" stroke-width="6" stroke-dasharray="0.9 99.1" stroke-dashoffset="-73.6"/>
+<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#f1e05a" stroke-width="6" stroke-dasharray="0.5 99.5" stroke-dashoffset="-74.5"/>
+<circle r="15.9" cx="21" cy="21" fill="transparent" stroke="#888" stroke-width="6" stroke-dasharray="0.0 100.0" stroke-dashoffset="-75.0"/>
+<text x="21" y="21" text-anchor="middle" font-size="3" dy="0.35em">Top Languages</text>
+</svg>
