@@ -1,14 +1,13 @@
-<svg width="220" height="250" viewBox="0 0 220 250" xmlns="http://www.w3.org/2000/svg">
-<text x="110.0" y="20" text-anchor="middle" font-size="18" font-family="Verdana,sans-serif" font-weight="bold">Top Languages</text>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
 
 <defs>
   <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
     <feDropShadow dx="0" dy="0" stdDeviation="1" flood-color="#000" flood-opacity="0.2"/>
   </filter>
 </defs>
-<path d="M 100,100 L 100.0,10.0 A 90,90 0 1 1 59.80007208545527,19.47692383133014 Z" fill="#178600" filter="url(#shadow)"/>
-<path d="M 100,100 L 59.80007208545527,19.47692383133014 A 90,90 0 0 1 83.39026099217867,11.545963517247799 Z" fill="#222222" filter="url(#shadow)"/>
-<path d="M 100,100 L 83.39026099217867,11.545963517247799 A 90,90 0 0 1 88.89140035250836,10.688192192343635 Z" fill="#888" filter="url(#shadow)"/>
-<path d="M 100,100 L 88.89140035250836,10.688192192343635 A 90,90 0 0 1 94.43505178321814,10.172212810597756 Z" fill="#f1e05a" filter="url(#shadow)"/>
-<path d="M 100,100 L 94.43505178321814,10.172212810597756 A 90,90 0 0 1 99.9999999999999,10.0 Z" fill="#888" filter="url(#shadow)"/>
+<path d="M 100.0,100.0 L 100.0,5.0 A 95.0,95.0 0 1 1 57.56674275686945,15.00341959973737 Z" fill="#178600" filter="url(#shadow)"/>
+<path d="M 100.0,100.0 L 57.56674275686945,15.00341959973737 A 95.0,95.0 0 0 1 82.46749771396637,6.631850379317115 Z" fill="#222222" filter="url(#shadow)"/>
+<path d="M 100.0,100.0 L 82.46749771396637,6.631850379317115 A 95.0,95.0 0 0 1 88.27425592764772,5.726425091918273 Z" fill="#888" filter="url(#shadow)"/>
+<path d="M 100.0,100.0 L 88.27425592764772,5.726425091918273 A 95.0,95.0 0 0 1 94.12588799339693,5.181780188964311 Z" fill="#f1e05a" filter="url(#shadow)"/>
+<path d="M 100.0,100.0 L 94.12588799339693,5.181780188964311 A 95.0,95.0 0 0 1 99.9999999999999,5.0 Z" fill="#888" filter="url(#shadow)"/>
 </svg>
