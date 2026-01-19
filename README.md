@@ -3,7 +3,8 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 
 <img src="rotating-icons.gif">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romansource)](https://github.com/romansource)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romansource&layout=pie&theme=dark)
+
 
 #
 
