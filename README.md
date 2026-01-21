@@ -1,7 +1,7 @@
 # Hi there 👋
 I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
 
-<img src="rotating-icons.gif">
+<img src="rotating-icons.webp">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romansource&layout=pie&theme=dark)
 
