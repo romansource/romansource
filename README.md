@@ -3,10 +3,10 @@ I'm a software engineer who is passionate about gamedev, .Net platform via C# an
 
 <img src="rotating-icons.gif">
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romansource&layout=pie&theme=dark)
+
+
 #
-
-![Top Languages](https://raw.githubusercontent.com/romansource/romansource/badges/top-languages.svg) &ensp; ![Legend](https://raw.githubusercontent.com/romansource/romansource/badges/languages-legend.svg)
-
 
 - 🔭 I’m currently working on a pet project and tinkering with  open source
 - 📫 How to reach me: romansourcemail@gmail.com
@@ -23,4 +23,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+### My live stats
+![Languages](https://raw.githubusercontent.com/romansource/romansource/badges/languages-combined.svg)
 -->
