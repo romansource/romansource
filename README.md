@@ -2,10 +2,12 @@
 I'm a software engineer who is passionate about gamedev, .Net platform via C# and Unity engine.
 
 <img src="rotating-icons.webp">
-
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romansource&layout=compact&theme=dark)
+-->
 
 #
+
 
 - 🔭 I’m currently working on a pet project and tinkering with  open source
 - 📫 How to reach me: romansourcemail@gmail.com
